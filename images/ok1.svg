@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.7092mm" height="2.7092mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 270.92 270.92"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:none}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#EA7F07;fill-rule:nonzero}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M80.43 224.36l110.06 0 0 -177.8 -110.06 0 0 177.8z"/>
+   </clipPath>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="0" y="-0.01" width="270.93" height="270.93" rx="20.69" ry="22.59"/>
+  <g>
+  </g>
+  <g style="clip-path:url(#id0)">
+   <g>
+    <path class="fil1" d="M82.05 141.98c-4.5,8.93 0.61,13.2 12.26,20.49 9.91,6.18 23.59,8.44 32.39,9.34 -3.6,3.5 12.91,-12.53 -34.65,33.64 -10.08,9.76 6.15,25.42 16.23,15.87l27.28 -26.56c10.44,10.14 20.45,19.86 27.27,26.59 10.09,9.59 26.31,-5.93 16.34,-15.86 -0.75,-0.72 -36.96,-35.79 -34.76,-33.64 8.91,-0.9 22.39,-3.3 32.18,-9.34l-0.01 -0.01c11.65,-7.33 16.76,-11.59 12.33,-20.52 -2.68,-5.06 -9.9,-9.3 -19.51,-1.97 0,0 -12.99,10.04 -33.92,10.04 -20.95,0 -33.92,-10.04 -33.92,-10.04 -9.61,-7.37 -16.86,-3.09 -19.51,1.97z"/>
+    <path class="fil1" d="M135.46 136.51c25.53,0 46.37,-20.13 46.37,-44.92 0,-24.9 -20.84,-45.03 -46.37,-45.03 -25.53,0 -46.37,20.13 -46.37,45.03 0,24.79 20.84,44.92 46.37,44.92zm0 -67.14c12.54,0 22.77,9.93 22.77,22.22 0,12.18 -10.23,22.11 -22.77,22.11 -12.54,0 -22.77,-9.93 -22.77,-22.11 -0.01,-12.29 10.22,-22.22 22.77,-22.22z"/>
+   </g>
+  </g>
+  <polygon class="fil2" points="80.43,224.36 190.49,224.36 190.49,46.56 80.43,46.56 "/>
+ </g>
+</svg>

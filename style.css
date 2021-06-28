@@ -1,0 +1,590 @@
+.header {
+    color: white;
+    background-image: url(images/image62.png);
+    background-size: cover;
+}
+.rectangle452 {
+    backdrop-filter: blur(5px);
+    margin: 15px 20px;
+    padding: 6px;
+    border-radius: 5px;;
+}
+.text {
+    font-family: 'PT Sans', sans-serif;
+}
+ img{
+    max-width: 100%;
+    min-width: 100%;
+    height: auto;
+}
+.header .text {
+    font-weight: 700;
+    font-size: 12px;
+    transform: scaleX(1.1);
+    margin: auto;
+}
+.blue_logo img{
+    float:right;
+    padding-top: 20px;
+    min-height: 0;
+    min-width: 0;
+}
+.menu {
+    background-color: #0388CB;
+    margin: 0;  
+}
+.burger {
+    padding: 4px;
+}
+.burger img{
+    max-width: 100%;
+    min-width: 100%;
+    height: auto;
+}
+.menu_link{
+    
+    color: white;
+    font-size: 11px;
+    text-align: center;
+}
+.social {
+    padding: 4px;
+}
+.social img{
+    max-width: 100%;
+    min-width: 100%;
+    height: auto;
+}
+.news {
+    background-image: url(images/shield.svg);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+    margin: auto;
+}
+.article {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.main .text strong{
+   font-size: 1.6em;
+}
+.article .main img{
+    max-width: 100%;
+    min-width: 100%;
+    height: auto;
+}
+.article .text{
+    font-weight: 700;
+    font-size: 12px;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.article .date {
+    font-size: 9px;
+    color: grey;
+}
+.news .button a,
+.news .button a:visited {
+    font-weight: 700;
+    font-size: 12px;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    padding: 10px 15px;
+    width: 90px;
+    color: black;
+    text-decoration: none;
+   
+}
+.news .button {
+    margin-bottom: 20px;
+}
+.events {
+    background-image: url(images/ng.png);
+    margin: 0 auto;
+    background-size: cover;
+    padding-bottom: 10px;
+    height: 100%;
+}
+.event {
+    margin: 10px auto;
+    height: 150px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    backdrop-filter: blur(5px);
+    background-color: rgba(255,255,255,.15);
+}
+.events h1{
+    padding: 30px 10px 5px;
+    color: white;
+    font-weight: 600;
+}
+.event .text {
+    font-size: 12px;
+    color: white;
+    font-weight: 600;
+}
+.event .date {
+    padding: 0 3px;
+    font-size: 10px;
+    font-weight: 500;
+    color:white;
+    background-color: red;
+    width: 100%;
+}
+.event img {
+    float:right;
+    min-width: 0;
+    width: 30px;
+}
+.events .button a,
+.events .button a:visited {
+    font-weight: 700;
+    font-size: 12px;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    padding: 10px 15px;
+    width: 90px;
+    color: white;
+    text-decoration: none;
+    backdrop-filter: blur(5px);
+    background-color: rgba(255,255,255,.15);
+}
+.events .button {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.toforms {
+    margin-top: 10px;
+    background-color: #02BFCB;
+    color: white;
+    height: 160px;
+}
+.toforms h5 {
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+.toforms .text {
+    font-size: 12px;
+    color: white;
+    font-weight: 300;
+ 
+}
+.toforms a, .toforms a:visited {
+    font-weight: 700;
+    font-size: 12px;
+
+    padding: 20px 0 ;
+    width: 190px;
+    color: white;
+    text-decoration: none;
+}
+.toforms a img {
+    width: 20px;
+    min-width: 0;
+}
+.reception {
+   margin-top: 10px;
+    background-color: #0388CB;
+    color: white;
+    height: 160px;
+}
+.reception h5 {
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+.reception .text {
+    font-size: 12px;
+    color: white;
+    font-weight: 300;
+}
+.reception a, .reception a:visited {
+    font-weight: 700;
+    font-size: 12px;
+    padding: 20px 0 ;
+    width: 190px;
+    height: 40px;
+    color: white;
+    text-decoration: none;
+}
+.reception a img {
+    width: 22px;
+    min-width: 0;
+    height: 20px;
+}
+.links {
+    background-color: white;
+    background-image: url(images/shield2.svg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    padding-bottom: 20px;
+    margin: auto;
+}
+.links h3 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.link {
+    background-color: #F4F4F5;
+    border-radius: 5px;
+    height: 148px;
+    margin-bottom: 10px;
+   
+}
+.link_cover{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.link img{
+    padding-top: 60px;
+    float:right;
+    min-width: 0;
+    width: 50px;
+    height: 148px;
+}
+.link .text {
+    padding: 20px 0 0 20px;
+}
+.link a, .link a:visited {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+.footer {
+    background-color: #3B5172;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.footer .text, 
+.palata_text,
+.footer .text a,
+.footer .text a:visited {
+    padding-top: 5px;
+    color: white;
+    font-weight: 700;
+    font-size: 10px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.palata_text{
+    align-items: center;
+}
+.footer .light_text{
+    padding-top: 10px;
+    color: #BFC2CA;
+    font-weight: 400;
+    font-size: 8px;
+    padding-right: 0;
+    padding-bottom: 5px;
+}
+.map{
+    padding-left:15px ; 
+}
+.map a, a:visited{
+    padding-top: 10px;
+   color: white;
+    font-weight: 400;
+    font-size: 8px;
+    text-decoration: none;
+} 
+.map_img img{
+    margin-top: 4px;
+    height: 12px;
+}
+.map_text{
+    padding-top: 0px;
+    padding-left: 5px;
+    font-weight: 400;
+    font-size: 14px;
+    text-decoration: none;
+}
+.KSO {
+    padding-top: 0px;
+}
+.KSO a, .KSO a:visited {
+    padding: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    text-shadow: 1px 2px 3px black;
+}
+.contacts {
+    padding-top: 10px;
+}
+.contacts .light_text{
+    padding: 0;
+}
+.contacts .text{
+    padding-top: 0;
+    padding-bottom: 10px;
+}
+.mail{
+    font-size: 10px;
+    font-weight: 500;
+    border-bottom: 1px #93A8B4 solid;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+@media screen and (min-width: 576px) and (max-width:767px){
+    .social img{
+        padding-top: 0px;
+        max-width: 70%;
+        min-width: 70%;
+        height: auto;
+    }
+    .burger img{
+        padding-top: 0px;
+        max-width: 50%;
+        min-width: 50%;
+        height: auto;
+    }
+    .burger{
+      padding-right: 0;
+      text-align: right;
+    }
+    .toforms, .reception {
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .footer .text, 
+    .footer .text a,
+    .footer .text a:visited {
+    padding-top: 0px;
+    font-size: 16px;
+    }
+    .palata_text {
+       font-size: 16px;
+    }
+
+}
+@media screen and (min-width: 768px) and (max-width:991px){
+    .blue_logo img{
+        height: 70px;
+    }
+    .social img{
+        padding-top: 0px;
+        max-width: 70%;
+        min-width: 70%;
+        height: auto;
+    }
+    .burger img{
+        padding-top: 0px;
+        max-width: 50%;
+        min-width: 50%;
+        height: auto;
+    }
+    .burger{
+      padding-right: 0;
+      text-align: right;
+    }
+    .events{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .event {
+        max-width: 95%;
+    }
+    .toforms{
+        margin-right: 0;
+        min-width: 100%;
+    }
+    .reception{
+        margin-left: 0;
+        min-width: 100%;
+    }
+    .palata_text{
+        font-size: 16px;
+    }
+}    
+@media screen and (min-width: 992px) and (max-width:1199px){
+    .blue_logo img{
+      padding-top: 35px;
+        height: 100px;
+        width: 100px;
+    }
+    .rectangle452 {
+        height: 100px ;
+        width: 419px;
+    }
+    .header .text{
+        padding-left: 5px;
+        font-size: 16px;
+    }
+    .emblem img{
+        padding-left: 10px;
+        height: 75px;
+    }
+   
+    .social img{
+        width: 32px;
+        height: 32px;
+    }
+    .burger img{
+
+       max-width: 20px;
+        max-height: 20px;
+    }
+    .burger{
+ 
+      text-align: right;
+    }
+    .events{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 40px;
+    }
+    .event {
+        max-width: 95%;
+        height: 200px;
+    }
+    .toforms{
+        margin-right: 0;
+        min-width: 100%;
+        height: 200px;
+    }
+    .reception{
+        margin-left: 0;
+        min-width: 100%;
+        height: 200px;
+    }
+    .toforms  img,
+    .reception img {
+        height: 114px;
+        width: 114px;
+    }
+    .toforms a img,
+    .reception a img {
+       height: 16px;
+    }
+    
+}
+@media screen and (min-width: 1200px){
+    .header {
+        height: 205px;
+        background-position: center; 
+    }
+    .blue_logo img{
+        height: 100px;
+        width: 100px;
+    }
+    .rectangle452 {
+        margin-top: 50px;
+        width: 419px;
+        height: 100px ;
+    }
+    .header .text{
+        font-size: 20px;
+    }    
+    .sky {
+        height: 26px;
+        width: 432px;
+    }
+    .sky_img{
+        max-width: 26px;
+        min-width: 0;
+        width: 26px;
+        height: 26px;
+    }
+    .sky_txt{
+        padding-left: 3px;
+    }
+    .header .text{
+        padding-left: 5px;
+    }
+    .emblem img{
+        padding-left: 10px;
+        height: 75px;
+    }
+    .social img{
+        width: 32px;
+        height: 32px;
+    }
+    .burger img{
+        max-width: 20px;
+        max-height: 20px;
+    }
+    .burger{
+    text-align: right;
+    }
+    .news{
+        max-width: 1440px;
+    }
+    .article .date {
+        font-size: 14px;
+    }
+    .news .button{
+        margin-top: 0;
+        margin-bottom: 80px;
+    }
+    .article .text{
+        font-size: 15px;
+    }
+    .links{
+        max-width: 1440px;
+        padding-bottom: 100px;
+    }
+    .menu_link{
+        font-size: 16px;
+    }
+    .events{
+        max-width: 1440px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 40px;
+    }
+    .event {
+        max-width: 95%;
+        height: 261px;
+        width: 369px;
+    }
+    .toforms, .reception{
+        margin-right: 0;
+        min-width: 100%;
+        height: 246px;
+        width: 569px;
+    }
+    .toforms h5, .reception h5{
+        margin-bottom: 20px;
+        font-size: 24px;
+    }
+    .toforms .text, .reception .text{
+        font-size: 16px;
+    }
+    .toforms .text a {
+        font-size: 15px;
+        margin-top: 40px;
+    }
+    .reception .text a{
+        font-size: 15px;
+        margin-top: 66px;
+    }
+
+    .reception a, .reception a:visited,
+    .toforms a, .toforms a:visited {
+        width: 100%;
+        padding: 0;
+    }
+    .toforms  img,
+    .reception img {
+        height: 114px;
+        width: 114px;
+    }
+    .toforms a img,
+    .reception a img {
+       height: 16px;
+    }
+    .palata_text{
+        font-size: 16px;
+    }
+    .footer .light_text {
+    font-size: 14px;
+    }
+    .footer .text,
+    .palata_text,
+    .footer .text a,
+    .footer .text a:visited {
+        font-size: 15px;
+    }
+   
+}
